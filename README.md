@@ -1,0 +1,2 @@
+# medical-practice-management-prompt-library-for-ai-tools
+Streamline your medical practice operations with this comprehensive prompt library designed for AI tools like ChatGPT, Claude, and Copilot. This collection of 50+ carefully crafted prompts covers every aspect of practice management—from patient scheduling and appointment reminders to medical billing, coding, and insurance verification. Reduce admin
